@@ -1,0 +1,21 @@
+{
+  "name": "linkdfluxx",
+  "version": "1.0.0",
+  "description": "https://github.com/ArkeologeN/node-linkedin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.3",
+    "express-session": "^1.15.3",
+    "node-linkedin": "^0.5.4",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {}
+}
